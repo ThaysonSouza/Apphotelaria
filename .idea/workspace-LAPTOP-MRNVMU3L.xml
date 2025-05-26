@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="732b7eed-c909-460b-b90d-251f21617633" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2oZr1R8Mpg6eD6ZfC1taagqmmnn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BancoConta.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CadCliente.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CadFuncionario.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CadQuarto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CadUsuario.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoginCliente.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteCarro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/55159/OneDrive - SENAC - SP/java/Poo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/thayson.ssousa/OneDrive - SENAC - SP/primeiro projeto java/Poo/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thayson.ssousa\OneDrive - SENAC - SP\java\Poo\src\view\resources\fonts" />
+      <recent name="C:\Users\thayson.ssousa\OneDrive - SENAC - SP\primeiro projeto java\Poo\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LoginCliente">
+    <configuration name="CadCliente" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="view.CadCliente" />
+      <module name="Poo" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\thayson.ssousa\OneDrive - SENAC - SP\java\javafx-sdk-21.0.6\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CadQuarto" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="view.CadQuarto" />
+      <module name="Poo" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\thayson.ssousa\OneDrive - SENAC - SP\java\javafx-sdk-21.0.6\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CadUsuario" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.CadUsuario" />
+      <module name="Poo" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\thayson.ssousa\OneDrive - SENAC - SP\java\javafx-sdk-21.0.6\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginCliente" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="view.LoginCliente" />
+      <module name="Poo" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Users\thayson.ssousa\OneDrive - SENAC - SP\java\javafx-sdk-21.0.6\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CadUsuario" />
+      <item itemvalue="Application.CadCliente" />
+      <item itemvalue="Application.CadQuarto" />
+      <item itemvalue="Application.LoginCliente" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="732b7eed-c909-460b-b90d-251f21617633" name="Changes" comment="" />
+      <created>1731087731984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731087731984</updated>
+      <workItem from="1738862715770" duration="1567000" />
+      <workItem from="1738864720006" duration="418000" />
+      <workItem from="1738865179156" duration="334000" />
+      <workItem from="1738951789795" duration="1111000" />
+      <workItem from="1738952927843" duration="4714000" />
+      <workItem from="1739553971774" duration="5701000" />
+      <workItem from="1740069257538" duration="10193000" />
+      <workItem from="1740157557516" duration="7331000" />
+      <workItem from="1740674234077" duration="162000" />
+      <workItem from="1740674411845" duration="9856000" />
+      <workItem from="1740686491519" duration="474000" />
+      <workItem from="1741280096774" duration="60000" />
+      <workItem from="1741280186309" duration="8110000" />
+      <workItem from="1741365097366" duration="8169000" />
+      <workItem from="1741884449402" duration="50000" />
+      <workItem from="1741884523553" duration="10743000" />
+      <workItem from="1741970094732" duration="4237000" />
+      <workItem from="1742574941308" duration="9231000" />
+      <workItem from="1743093921669" duration="1227000" />
+      <workItem from="1743699511307" duration="653000" />
+      <workItem from="1743700181582" duration="9351000" />
+      <workItem from="1743790477125" duration="1110000" />
+      <workItem from="1744130536305" duration="9890000" />
+      <workItem from="1744143613726" duration="72000" />
+      <workItem from="1744303740785" duration="11497000" />
+      <workItem from="1744388765013" duration="11225000" />
+      <workItem from="1744648943735" duration="9565000" />
+      <workItem from="1744822001735" duration="2780000" />
+      <workItem from="1744893487512" duration="885000" />
+      <workItem from="1745074675553" duration="1465000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
