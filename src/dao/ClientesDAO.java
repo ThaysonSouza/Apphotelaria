@@ -21,11 +21,52 @@ public class ClientesDAO {
             novoCliente.setString(4, "15 6668 4518");
 
             int linhaAfetada = novoCliente.executeUpdate();
+            conndb.close();
             return linhaAfetada > 0;
         }
 
         catch (Exception erro) {
-            System.out.println("Erro ao inserir cliente" + erro);
+            System.out.println("Erro ao inserir Cliente" + erro);
+            return false;
+        }
+    }
+
+    public boolean alterarCliente() {
+        try {
+            Connection conndb = conexao.conectar();
+            PreparedStatement alterarCliente = conndb.prepareStatement("UPDATE Clientes " +
+                    "SET nome = ?, email = ?, cpf = ?, telefone =?"
+                    + " WHERE id = ?;");
+
+            alterarCliente.setString(1, "Thayson Souza");
+            alterarCliente.setString(2, "thayson.ssousa@gmail.com");
+            alterarCliente.setString(3, "400.289.22");
+            alterarCliente.setString(4, "15 4002 8922");
+            alterarCliente.setInt(5, 1);//Alterar Usuario com ID = 1
+
+            int linhaAfetada = alterarCliente.executeUpdate();
+            conndb.close();
+            return linhaAfetada > 0;
+        }
+
+        catch (Exception erro) {
+            System.out.println("Erro ao alterar Cliente" + erro);
+            return false;
+        }
+    }
+
+    public boolean deleteCliente() {
+        try {
+            Connection conndb = conexao.conectar();
+            PreparedStatement removeCliente = conndb.prepareStatement
+                    ("DELETE FROM clientes WHERE id = ?;");
+            removeCliente.setInt(1, 1);
+            int linhaAfetada = removeCliente.executeUpdate();
+            conndb.close();
+            return linhaAfetada > 0;
+
+        } catch (Exception erro) {
+            System.out.println("Erro ao deletar Cliente" + erro);
             return false;
         }
     }
